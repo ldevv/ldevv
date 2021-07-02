@@ -1,0 +1,4 @@
+- 👋 Hi, I’m LeoDev!
+- 👀 I’m currently working on projects for ScriptByte.
+- 🌱 I’m currently learning game development.
+- 📫 You can contact me through discord at LeoDev#4969.
