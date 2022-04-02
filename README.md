@@ -1,4 +1,4 @@
 - 👋 Hi, I’m LeoDev!
-- 👀 I’m currently working on 2D games and other projects.
+- 👀 I’m currently working on Swift Guides, 2D games, and other projects.
 - 🌱 I’m currently learning game development.
 - 📫 You can contact me through discord at LeoDev#4969.
